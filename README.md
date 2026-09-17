@@ -1,7 +1,5 @@
 Bus Ticket Booking System
 
-Danas Savickas
-
 Statement of provenance: The code content in this repository was written with the assistance of GitHub Copilot.
 
 ## What Is Included
