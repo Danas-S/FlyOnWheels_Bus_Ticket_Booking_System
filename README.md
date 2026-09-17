@@ -1,5 +1,9 @@
 Bus Ticket Booking System
 
+Danas Savickas
+
+Statement of provenance: The code content in this repository was written with the assistance of GitHub Copilot.
+
 ## What Is Included
 - `create_database.py`: creates and seeds `flyonwheels.db`
 - `test_database.py`: dumps all tables and rows from `flyonwheels.db`
@@ -33,8 +37,8 @@ Add your class diagram image file in this folder, for example:
 From repository root:
 
 ```powershell
-c:/Users/Danas/GenAI/gaiap-Danas-S/.venv/Scripts/python.exe create_database.py
-c:/Users/Danas/GenAI/gaiap-Danas-S/.venv/Scripts/python.exe test_database.py
+c:/Users/Danas/FlyOnWheels_Bus_Ticket_Booking_System/.venv/Scripts/python.exe create_database.py
+c:/Users/Danas/FlyOnWheels_Bus_Ticket_Booking_System/.venv/Scripts/python.exe test_database.py
 ```
 
 ## Expected Seed Summary
