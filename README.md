@@ -1,4 +1,4 @@
-# Week 10 - Part 1 (Classes and Object Persistence)
+Bus Ticket Booking System
 
 ## What Is Included
 - `create_database.py`: creates and seeds `flyonwheels.db`
@@ -33,8 +33,8 @@ Add your class diagram image file in this folder, for example:
 From repository root:
 
 ```powershell
-c:/Users/Danas/GenAI/gaiap-Danas-S/.venv/Scripts/python.exe week10/create_database.py
-c:/Users/Danas/GenAI/gaiap-Danas-S/.venv/Scripts/python.exe week10/test_database.py
+c:/Users/Danas/GenAI/gaiap-Danas-S/.venv/Scripts/python.exe create_database.py
+c:/Users/Danas/GenAI/gaiap-Danas-S/.venv/Scripts/python.exe test_database.py
 ```
 
 ## Expected Seed Summary
